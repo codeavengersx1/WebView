@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/menu_load_desktop_site"
+        android:icon="@drawable/ic_desktop_windows_white_24dp"
+        android:title="Load Desktop Site"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_exit_app"
+        android:title="Exit"
+        app:showAsAction="never" />
+    
+</menu>
